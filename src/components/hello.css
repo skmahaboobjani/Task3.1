@@ -1,3 +1,23 @@
 .mabu{
     text-align: left;
 }
+input{
+    position: relative;
+    height: 20px;
+   width: 50%;
+   left: 200px;
+   background-color: #F1F0F0
+   
+}
+#arrow{
+    position: relative;
+    left: 12px;
+}
+#re{
+    position: relative;
+left: 20px;
+}
+#s{
+    position: relative;
+   left: 170px;
+}
